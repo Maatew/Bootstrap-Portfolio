@@ -1,0 +1,13 @@
+.columna{
+    color: white;
+    font-size: 25px;
+    background-color: red;
+    border: 1px solid black;
+}
+
+.row{
+    background-color: grey;
+    border: 2px solig black;
+    padding: 5px;
+    margin: 10px;
+}
